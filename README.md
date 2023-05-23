@@ -1,8 +1,13 @@
-<center>This repository contains a summary of the results presented in the paper <i>Food System Emissions: A Review of Trends, Drivers, and Policy Approaches, 1990–2018</i>.
-<br>
-Authors: Nicola Cerutti, William F. Lamb, Monica Crippa, Adrian Leip, Efisio Solazzo, Francesco N. Tubiello, and Jan C. Minx</center>
-<br>
-In short, we summarize trends and drivers of global food system emissions from 1990 to 2018. We highlight regional diversity in patterns of food system emissions and identify the highest global emitters. While food system emissions have stabilized in some regions and countries, global emissions are increasing, with growth in certain sectors and countries outweighing the handful of cases where sustained emissions reductions have been achieved. Emissions from livestock rearing account for a large portion of global emissions, and the contribution of post-production emissions is steadily increasing in all regions.
+<center>This repository contains a summary of the recent trends in greenhouse gas (GHG) emissions from the food system.
+  
+A more detailed overview can be found, among others, in the paper <i>Food System Emissions: A Review of Trends, Drivers, and Policy Approaches, 1990–2018</i>, that I coauthored with William Lamb, Monica Crippa, Adrian Leip, Efisio Solazzo, Francesco Tubiello, and Jan Minx.
+  
+
+In the paper we summarize trends and drivers of global food system emissions from 1990 to 2018. We highlight regional diversity in patterns of food system emissions and identify the highest global emitters. While food system emissions have stabilized in some regions and countries, global emissions are increasing, with growth in certain sectors and countries outweighing the handful of cases where sustained emissions reductions have been achieved. Emissions from livestock rearing account for a large portion of global emissions, and the contribution of post-production emissions is steadily increasing in all regions.
+  
+Here, I present some insights that came from the analysis conducted in the paper and I conclude with a few concerns I have regarding mitigation in the sector.
+
+
 
 |                               | (1) Emissions (2010-2018 average) | (2) Emissions (2018) | (3) Growth 2010-2018 (GtCO₂eq., %) | (4) Fraction of category total (rowwise) | (5) Fraction of total food system emissions |
 |-------------------------------|-----------------------------------|----------------------|------------------------------------|-------------------------------------------|---------------------------------------------|
@@ -39,5 +44,5 @@ In short, we summarize trends and drivers of global food system emissions from 1
 | Europe                        | 1.1                               | 1.1                  | -0.8%                              | 29%                                      | 6%                                         |
 | Rest of the world             | 7.9                               | 8.15                 | 7.6%                               | 48%                                      | 49%                                        |
 
-
-
+  
+  
