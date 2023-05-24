@@ -61,6 +61,9 @@ Next, I would like to quickly compare two of the most relevant sources and how t
 1.  the huge amount of methane comes mostly from production, although it represents almost 100% of all the emissions from the waste stage
 2.  carbon dioxide emissions are almost equally divided between emissions from energy use and from land use (deforestation plays here an important role)
 
+<br>
+<br>
+<br>
 <div align="center"><img src="https://github.com/ncerutti/food_system_emissions_2023/blob/29b8d8c48d2f23914fdf67b84704d258b82eea0e/11_sankey_fao.png" height="500" /></div>
 
 <br>
@@ -68,6 +71,9 @@ Next, I would like to quickly compare two of the most relevant sources and how t
 <br>
 Now, let us look at where these emissions happen and which gases. In the paper the analysis focuses on other aspects (I do not think this figure is in there). Here, however, I want to highlight that, worldwide, we have yet to experience a decrease in methane emissions from agriculture and food systems, and the figure below shows how relevant that is.
 
+<br>
+<br>
+<br>
 <div align="center"><img src="https://github.com/ncerutti/food_system_emissions_2023/blob/a70bea8421c95ec3a03705f566e4435303a0b326/gas_stages.png" height="500" /></div>
 
 <br>
@@ -75,6 +81,9 @@ Now, let us look at where these emissions happen and which gases. In the paper t
 <br>
 Finally, let us see how much these emissions vary, worldwide. Here is a summary of per capita emissions per country, divided by land use (LULUCF), production, and post production. Can you guess which developed country is constantly on the top right, with very high per capita emissions? This figure is here to suggest that there is much heterogeneity in terms of emissions across the globe. Part of it is diet-dependent, but trade can really play a huge role, as well: that bad performer on the right, Australia, is an example in that sense.
 
+<br>
+<br>
+<br>
 <div align="center"><img src="https://github.com/ncerutti/food_system_emissions_2023/blob/c2e2829f2cc86fedebc347ffc7a5447e1c9e1b2b/gdpscatter.png" height="500" /></div>
 
 <br>
